@@ -385,6 +385,7 @@
 /bandai-namco/
 /equipos/
 /beathey/
+/celulares-prepago/prepago-power/
 /becheff/
 /beyond-vr/
 /club-kids/
